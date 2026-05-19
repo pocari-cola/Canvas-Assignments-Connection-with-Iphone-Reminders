@@ -1,0 +1,7 @@
+config.json
+course_aliases.json
+state.json
+assignment.json
+.venv/
+__pycache__/
+*.pyc
