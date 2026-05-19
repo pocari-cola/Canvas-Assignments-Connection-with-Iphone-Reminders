@@ -12,8 +12,9 @@
 - iPhone Mail app configured with your mail account
 
 ## Setup (Mail SMTP)
-**1. Get the SMTP password:**
+**1. Get the password:**
    Get the SMTP password of your mail account.
+   Get your Canvas token: Log in your **canvas**. Click your image on the top right of the page and go to the **profile**. Enter **setting** and go to **Approved Integrations**. Click **New Access Token**. 
 
 **2. Edit course_aliases.json**
    Edit course_aliases.json to map Canvas course names to short labels. Remind that only courses in the aliases list will be pushed to the reminder.
