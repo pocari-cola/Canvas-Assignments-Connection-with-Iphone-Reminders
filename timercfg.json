@@ -1,0 +1,5 @@
+{
+  "interval_hours": 3,
+  "run_immediately": true,
+  "stop_on_error": false
+}
